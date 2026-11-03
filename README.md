@@ -28,4 +28,5 @@ This app uses the Telegram API and is part of the Telegram ecosystem. The in-app
 
 ## GitHub
 
-The local repository is initialized for this project. To publish it, create an empty GitHub repository and add its URL as the `origin` remote.
+The public source repository is [SlyMornigStar/PulseChat](https://github.com/SlyMornigStar/PulseChat). This checkout is the working project folder; its GitHub contents are published on the `main` branch.
+
